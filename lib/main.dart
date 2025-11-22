@@ -191,7 +191,7 @@ class BotonCalculadora extends StatelessWidget {
       },
       style: ElevatedButton.styleFrom(
         backgroundColor: colorFondo,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
       ),
       child: Text(texto, style: TextStyle(fontSize: 24, color: colorTexto)),
     );
