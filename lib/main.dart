@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                       children: [
                         BotonCalculadora(
                           texto: 'AC',
-                          colorFondo: Colors.white,
+                          colorFondo: Colors.grey.shade800,
                           colorTexto: Colors.deepOrange,
                         ),
                         BotonCalculadora(
