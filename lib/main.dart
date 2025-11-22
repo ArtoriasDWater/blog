@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.black,
                     height: double.infinity,
                     width: double.infinity,
-                    padding: EdgeInsets.all(24),
+                    padding: EdgeInsets.all(20),
                     child: Align(
                       alignment: Alignment.bottomRight,
                       child: Text(
