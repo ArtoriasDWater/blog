@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 Expanded(
-                  flex: 7,
+                  flex: 6,
                   child: Container(
                     color: Colors.black,
                     child: GridView.count(
