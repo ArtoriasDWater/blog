@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         ),
         body: SafeArea(
           child: Container(
-            color: Colors.red,
+            color: Colors.white,
             height: double.infinity,
             width: double.infinity,
             child: Column(
