@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('CALCULADORA', style: TextStyle(color: Colors.white)),
-          backgroundColor: Colors.black,
+          backgroundColor: Colors.white,
         ),
         body: SafeArea(
           child: Container(
